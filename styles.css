@@ -92,6 +92,8 @@ hr{
 }
 .profilePic{
   border-radius: 50%;
+  height: 300;
+  width:350px;
 }
 .contact-me{
   width:30%;
